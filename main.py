@@ -4,7 +4,7 @@ may code a fully featured and cross-platform
 version, although this is functional...
 just a req l00p'''
 
-thread_ID_2bump = '973024' # thread id to bump
+thread_ID_2bump = '973186' # thread id to bump
 
 mybbuser = '152304_lqEydjERKheRUuvCkF7ewJ0etF26XRcazfav8FFJg2VAg8kKeA ' # your auth cookie
 
